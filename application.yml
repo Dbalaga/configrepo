@@ -6,5 +6,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Dbalaga/config-repo
+          uri: https://github.com/Dbalaga/configrepo
           clone-on-start: true
